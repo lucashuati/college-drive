@@ -66,8 +66,9 @@ View
 -------------
 * Profile Page - infos of user
 * College Page - list all disciplines in the college
-* Discipline Page - list all documents in the discipline 
-* Search Page - search a discipline in the college and/or tag
+* Discipline Page - list all documents in the discipline
+* Document Page - list infos of document and link to download
+* Search Page - search a discipline in the college and/or document with tag
 
 
 Tools
