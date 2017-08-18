@@ -79,7 +79,7 @@ Tools
 > Frontend
 > * HTML 5
 > * CSS 3 (Bootstrap)
-> * JavaScript (JQuery)
+> * JavaScript (JQuery, Ajax)
 
 > Database
 > * Postgree SQL
