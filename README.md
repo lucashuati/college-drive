@@ -84,8 +84,8 @@ Tools
 > * Postgree SQL
 
 > Server
-> * Heroku(Host and Database)
-> * Google Cloud Plataform(Storage)
+> * Heroku (Host and Database)
+> * Google Cloud Plataform (Storage)
 
 
 
