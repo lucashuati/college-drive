@@ -41,7 +41,7 @@ Structure
 > * college
 
 > Tag
-> description 
+> * description 
 
 > Document
 > * discipline
